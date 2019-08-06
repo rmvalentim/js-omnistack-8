@@ -1,5 +1,5 @@
 const username = 'rafael';
-const password = 'mzzPKt1BWsUvDxME';
+const password = 'cOLwFireCbHIB71r';
 const databaseName = 'omnistack';
 
 module.exports =  
