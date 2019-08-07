@@ -1,2 +1,2 @@
 backend/node_modules
-backend/credentials
+backend/src/credentials/*.js

@@ -1,1 +1,2 @@
-"Aplica‡äes desenvolvidas durantes a oitava semana Omnistack da Rocketseat" 
+#Tindev
+AplicaÃ§Ãµes desenvolvidas durantes a oitava semana Omnistack da Rocketseat
